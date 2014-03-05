@@ -1,0 +1,43 @@
+a {text-decoration: none; font-family:arial; font-size: 10px; font-weight: normal; color:#000080}
+
+#a1 {font-family:arial; color:#ffb93f; font-size: 12pt; font-weight: bold}
+
+h4 {font-family:arial; color:#ffb93f; font-size: 12pt}
+
+hr {border: 0; width: 100%; color: #dadada; background-color: #ffb93f; height: 1px;}
+
+
+td {background-color: #eaeaea; font-family:arial; color:#000080; font-size: 9pt; border-bottom: 1px solid #dfdfdf}
+
+#tdheader {background-color: #cccccc; font-family:arial; color:#ffffff; font-size: 9pt; border-bottom: 1px solid #dfdfdf}
+
+.yazi {font-family:verdana; font-size: 12px; color:#000080}
+
+#outer {height:600px; width:800px; background-color: #ffffff}
+#outerlong {height:1000px; width:800px; background-color: #ffffff}
+#outerlonglong {height:1585px; width:800px; background-color: #ffffff}
+#outerintro {height:495px; width:800px; background-color: #ffffff}
+
+#logo {height:100px; width:200px; background-color: #ffffff; text-align: center}
+
+#menu {height:180px; width:200px; background-color: #efefef; text-align: left}
+
+#menualt {height:265px; width:200px; background-color: #efefef; text-align: left; font-family:verdana; font-size: 12pt; color:#000080}
+#menulong {height:850px; width:200px; background-color: #efefef; text-align: left; font-family:verdana; font-size: 12pt; color:#000080}
+#menulonglong {height:1430px; width:200px; background-color: #efefef; text-align: left; font-family:verdana; font-size: 12pt; color:#000080}
+
+#menugiris {height:450px; width:200px; background-color: #efefef; text-align: left}
+
+#banner {height:100px; width:545px; background-color: #efefef; text-align: left; font-family:verdana; font-size: 10pt; color:#000080}
+#bannerIn1 {height:90px; width:495px; background-color: #efefef; text-align: center}
+#bannerIn2 {height:90px; width:30px; background-color: #efefef; text-align: right; font-family:verdana; font-size: 10pt; color:#000080}
+
+#contentintro {height:450px; width:545px; background-color: #efefef; text-align: justify; font-family:verdana; font-size: 8pt; color:#000080}
+#content {height:450px; width:545px; background-color: #efefef; text-align: justify; font-family:verdana; font-size: 8pt; color:#000080; background-image:url(../image/bg.gif);background-repeat:repeat;}
+#contentIn1 {height:410px; width:505px; background-color: #efefef; text-align: justify; font-family:verdana; font-size: 8pt; color:#000080; background-image:url(../image/bg.gif);background-repeat:repeat;}
+#contentlong {height:850px; width:545px; background-color: #efefef; background-image:url(../image/bg.gif);background-repeat:repeat;}
+#contentlonglong {height:1430px; width:545px; background-color: #ffffff; background-image:url(../image/bg.gif);background-repeat:repeat;}
+#contentIn1long {height:810px; width:505px; background-color: #efefef; text-align: justify; font-family:verdana; font-size: 8pt; color:#000080; background-image:url(../image/bg.gif);background-repeat:repeat;}
+#contentIn1longlong {height:1390px; width:505px; background-color: #ffffff; text-align: justify; font-family:verdana; font-size: 8pt; color:#000080; background-image:url(../image/bg.gif);background-repeat:repeat;}
+
+#info {height:20px; width:800px; background-color: #5f5f5f; text-align: center;  font-family:verdana; font-size: 8pt; color:#6a6a6a; line-height:20px}
